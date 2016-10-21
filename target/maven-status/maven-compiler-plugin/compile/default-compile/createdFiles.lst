@@ -1,0 +1,5 @@
+com/redhat/bpms/examples/mortgage/ValidationError.class
+com/redhat/bpms/examples/mortgage/Appraisal.class
+com/redhat/bpms/examples/mortgage/Applicant.class
+com/redhat/bpms/examples/mortgage/Property.class
+com/redhat/bpms/examples/mortgage/Application.class
